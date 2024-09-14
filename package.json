@@ -2,7 +2,7 @@
   "name": "techtrain-ssr-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://masaharu-murakami.github.io/techtrain-ssr-app",
+  "homepage": "https://masaharu-murakami.github.io/techtrain-ssr-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
