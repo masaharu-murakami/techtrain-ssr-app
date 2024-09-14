@@ -1,3 +1,23 @@
+-------------------------------------------------------------------------------
+2024/09/14 15時21分 github pages にデプロイ完了
+やったこと
+・ブラウザのキャッシュのクリア
+・Branchの変更   
+  GitHub Pages のBrunch を main から gh-pagesに変更
+
+![alt text](image.png)
+
+-----------------------------------------------------------
+Station3 http://localhost:9000/  にアクセスで Hello,world表示完了
+![alt text](image-1.png)
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
