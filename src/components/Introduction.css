@@ -1,0 +1,32 @@
+.introduction {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.introduction h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.introduction p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.introduction ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.introduction li {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 5px;
+}

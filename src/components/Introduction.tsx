@@ -1,4 +1,5 @@
 import React from 'react';
+//import './Introduction.css';
 
 // 自己紹介のデータ型を定義
 interface IntroductionProps {
