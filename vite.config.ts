@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/{techtrain-ssr-app}/',
+  base: '/techtrain-ssr-app/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
